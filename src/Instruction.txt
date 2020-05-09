@@ -1,0 +1,5 @@
+database Name: bdtutor
+
+1.Create database as name as bdtutor
+
+2.import sql file to database 
